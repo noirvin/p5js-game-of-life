@@ -1,4 +1,4 @@
-// #3 Paste in your fully functional code from section 1.0 Build the Game of Life
+
 var grid;
 var fps = 60;
 var g = 6;
